@@ -2,6 +2,7 @@
   "name": "reactSPA",
   "version": "1.0.0",
   "private": true,
+  "homepage": "https://pedrobabo.github.io/antd-admin",
   "dependencies": {
     "antd": "^3.2.1",
     "diana": "0.3.0",
@@ -119,6 +120,5 @@
       "\\.(jpg|jpeg|png|gif|eot|otf|webp|svg|ttf|woff|woff2|mp4|webm|wav|mp3|m4a|aac|oga)$": "<rootDir>/src/common/images",
       "\\.(css|less|scss)$": "<rootDir>/src"
     }
-  },
-  "homepage": "http://MuYunyun.github.io/reactSPA"
+  }
 }
